@@ -11,10 +11,9 @@
 </p>
 
 <p align="center">
-  <!-- Bilibili / Email 换成你自己的就行，改下面这两行 href -->
-  <a href="https://space.bilibili.com/"><img src="./assets/social-bilibili.svg" height="34" alt="Bilibili"></a>
+  <a href="https://discord.gg/TMHcHkeRB"><img src="./assets/social-discord.svg" height="34" alt="Discord: AE研究院"></a>
   &nbsp;
-  <a href="mailto:huajikano@users.noreply.github.com"><img src="./assets/social-email.svg" height="34" alt="Email: huajikano@users.noreply.github.com"></a>
+  <a href="mailto:huajikano@gmail.com"><img src="./assets/social-email.svg" height="34" alt="Email: huajikano@gmail.com"></a>
   &nbsp;
   <a href="https://github.com/huajikano"><img src="./assets/social-github.svg" height="34" alt="GitHub: huajikano"></a>
 </p>
