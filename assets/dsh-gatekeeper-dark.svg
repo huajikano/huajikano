@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="198" viewBox="0 0 440 198" role="img" aria-labelledby="title">
+<title id="title">dsh-gatekeeper 扎总：在拒绝回复进入会话上下文之前拦截。DSH 插件 / JavaScript</title>
+<g font-family="'Trebuchet MS','Segoe UI','Microsoft YaHei',sans-serif">
+<rect x="1" y="1" width="438" height="196" rx="21" fill="#282132" stroke="#51415F" stroke-width="2"/>
+<text x="25" y="31" font-size="10.5" font-weight="700" letter-spacing="1.7" fill="#C4ADCE">04 / PLUGIN GUARD</text>
+<rect x="355" y="23" width="60" height="60" rx="19" fill="#D2B777" fill-opacity=".45"/>
+<g transform="translate(365 33)">
+<g fill="none" stroke="#F3E7F7" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 3 34 9v12c0 9-14 16-14 16S6 30 6 21V9Z"/><path d="m14 20 5 5 8-10"/>
+</g>
+</g>
+<text x="24" y="69" font-size="22" font-weight="700" fill="#F3E7F7">dsh-gatekeeper</text>
+<text x="25" y="105" font-size="15" fill="#C4ADCE">在模型拒绝的话进上下文之前</text>
+<text x="25" y="130" font-size="15" fill="#C4ADCE">就先把它拦下来（扎总）</text>
+<circle cx="30" cy="167" r="4" fill="#D2B777"/>
+<text x="43" y="171" font-size="12" font-weight="700" fill="#F3E7F7">DSH 插件 · 拦截 · JavaScript</text>
+<path d="M388 169h15m-6-6 6 6-6 6" fill="none" stroke="#C4ADCE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

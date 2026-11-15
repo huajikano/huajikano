@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="198" viewBox="0 0 440 198" role="img" aria-labelledby="title">
+<title id="title">bibao 比宝：拟人认知内核（DSH 插件），四条神经科学定律 + QQ 感官。JavaScript</title>
+<g font-family="'Trebuchet MS','Segoe UI','Microsoft YaHei',sans-serif">
+<rect x="1" y="1" width="438" height="196" rx="21" fill="#FFF9FC" stroke="#EADFEB" stroke-width="2"/>
+<text x="25" y="31" font-size="10.5" font-weight="700" letter-spacing="1.7" fill="#8A718F">02 / COGNITIVE KERNEL</text>
+<rect x="355" y="23" width="60" height="60" rx="19" fill="#F6CBDA" fill-opacity=".45"/>
+<g transform="translate(365 33)">
+<g fill="none" stroke="#513D62" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 34S7 26 7 16a7 7 0 0 1 13-4 7 7 0 0 1 13 4c0 10-13 18-13 18Z"/><path d="M13 17h4l2-3 2 6 2-3h4"/>
+</g>
+</g>
+<text x="24" y="69" font-size="24" font-weight="700" fill="#513D62">bibao · 比宝</text>
+<text x="25" y="105" font-size="15" fill="#8A718F">拟人认知内核，四条神经科学定律</text>
+<text x="25" y="130" font-size="15" fill="#8A718F">接上 QQ 感官，让 AI 有点人味</text>
+<circle cx="30" cy="167" r="4" fill="#F6CBDA"/>
+<text x="43" y="171" font-size="12" font-weight="700" fill="#513D62">DSH 插件 · JavaScript · QQ</text>
+<path d="M388 169h15m-6-6 6 6-6 6" fill="none" stroke="#8A718F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

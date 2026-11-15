@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="198" viewBox="0 0 440 198" role="img" aria-labelledby="title">
+<title id="title">还有这些 ♡ 别急着走，再逛一圈吧，其他项目都收在这里啦。Browse my repositories</title>
+<g font-family="'Trebuchet MS','Segoe UI','Microsoft YaHei',sans-serif">
+<rect x="1" y="1" width="438" height="196" rx="21" fill="#282132" stroke="#51415F" stroke-width="2"/>
+<text x="25" y="31" font-size="10.5" font-weight="700" letter-spacing="1.7" fill="#C4ADCE">05 / ONE MORE THING</text>
+<rect x="355" y="23" width="60" height="60" rx="19" fill="#D2B777" fill-opacity=".45"/>
+<g transform="translate(365 33)">
+<g fill="none" stroke="#F3E7F7" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="m13 10-9 10 9 10m14-20 9 10-9 10M23 7l-6 26"/>
+</g>
+</g>
+<text x="24" y="69" font-size="27" font-weight="700" fill="#F3E7F7">还有这些 ♡</text>
+<text x="25" y="105" font-size="15" fill="#C4ADCE">别急着走，再逛一圈吧</text>
+<text x="25" y="130" font-size="15" fill="#C4ADCE">其他项目都收在这里啦</text>
+<circle cx="30" cy="167" r="4" fill="#D2B777"/>
+<text x="43" y="171" font-size="12" font-weight="700" fill="#F3E7F7">Browse my repositories</text>
+<path d="M388 169h15m-6-6 6 6-6 6" fill="none" stroke="#C4ADCE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
