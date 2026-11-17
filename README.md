@@ -61,10 +61,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/huajikano/dsh-PEC">
+<a href="https://github.com/huajikano/dsh-feibi-breaker">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dsh-pec-dark.svg">
-    <img src="./assets/dsh-pec-light.svg" width="390" alt="dsh-PEC：手机网关，通过 Wi-Fi 或 Tailscale 驱动正在运行的 DeepSeek Harness 会话。">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/feibi-dark.svg">
+    <img src="./assets/feibi-light.svg" width="390" alt="菲比破限：提示词塑形 + 提交前拦截，输入框上方一条状态条。DSH 插件 / JavaScript">
   </picture>
 </a>
 <a href="https://github.com/huajikano/dsh-gatekeeper">
