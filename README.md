@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/TMHcHkeRB"><img src="./assets/social-discord.svg" height="34" alt="Discord: AE研究院"></a>
+  <a href="https://discord.gg/Mw97ZdVaFn"><img src="./assets/social-discord.svg" height="34" alt="Discord: kano 的小窝"></a>
   &nbsp;
   <a href="mailto:huajikano@gmail.com"><img src="./assets/social-email.svg" height="34" alt="Email: huajikano@gmail.com"></a>
   &nbsp;
